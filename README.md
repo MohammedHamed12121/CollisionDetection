@@ -1,0 +1,1 @@
+this is a simple ball collision detection for learning raylib with c#
